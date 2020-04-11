@@ -1,0 +1,4 @@
+---
+slug: smp
+name: SMP
+---
