@@ -1,0 +1,4 @@
+---
+slug: symantec
+name: Symantec
+---

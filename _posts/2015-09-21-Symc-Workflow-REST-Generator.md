@@ -2,8 +2,8 @@
 layout: post
 title: Using the REST Generator in Workflow 7.6
 author: Alex Hedley
-category: general
-tags: [general]
+category: dev
+tags: [symantec, workflow]
 ---
 
 In this Article I will explain how to use the REST Generator within [Workflow](http://www.symantec.com/connect/workflow-servicedesk) 7.6.
