@@ -3,7 +3,7 @@ layout: post
 title: CWoC Patch Automation
 author: Alex Hedley
 category: dev
-tags: [symantec]
+tags: [symantec, smp]
 ---
 
 [{CWoC}](https://www.symantec.com/connect/articles/cwoc) has a number of tools built over the years from [Ludovic Ferre](https://www.symantec.com/connect/user/ludovic-ferre).
