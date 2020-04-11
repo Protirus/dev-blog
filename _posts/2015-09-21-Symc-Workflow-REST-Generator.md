@@ -101,6 +101,6 @@ And there you have a way of retrieving data from an API and displaying it in a W
 
 **Symantec**
 
-- [Using the REST Generator in Workflow 7.6](https://www-secure.symantec.com/connect/articles/using-rest-generator-workflow-76)
-- [Using the REST Generator (GET) in Workflow 7.6 with Mobility Suite](https://www-secure.symantec.com/connect/articles/using-rest-generator-get-workflow-76-mobility-suite)
-- [Using the REST Generator (Headers) in Workflow 7.6 with Mobility Suite](https://www-secure.symantec.com/connect/articles/using-rest-generator-headers-workflow-76-mobility-suite)
+- [Using the REST Generator in Workflow 7.6](https://www.symantec.com/connect/articles/using-rest-generator-workflow-76)
+- [Using the REST Generator (GET) in Workflow 7.6 with Mobility Suite](https://www.symantec.com/connect/articles/using-rest-generator-get-workflow-76-mobility-suite)
+- [Using the REST Generator (Headers) in Workflow 7.6 with Mobility Suite](https://www.symantec.com/connect/articles/using-rest-generator-headers-workflow-76-mobility-suite)
